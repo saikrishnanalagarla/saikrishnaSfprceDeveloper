@@ -1,32 +1,50 @@
 # Salesforce Developer Portfolio
 
-Welcome to my GitHub repository! I am a Salesforce Developer with expertise in **Salesforce Customization**, **Lightning Web Components (LWC)**, and **REST Integration**. This repository showcases my projects and contributions in the Salesforce ecosystem, along with some of my skills in other technologies.
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white)
+![Lightning Web Components](https://img.shields.io/badge/Lightning%20Web%20Components-009EDB?logo=salesforce&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0052CC?logo=rest&logoColor=white)
 
-## 🚀 Expertise
+## About Me
 
-- **Salesforce Customization**: Proficient in configuring and customizing Salesforce to meet business requirements, including working with Apex, Visualforce, and declarative tools.
-- **Lightning Web Components (LWC)**: Skilled in building efficient and scalable user interfaces using LWC, enhancing the user experience with modern web technologies.
-- **REST Integration**: Experienced in integrating Salesforce with external systems using RESTful APIs, ensuring seamless data exchange and business process automation.
+I am a Salesforce Developer specialized in Salesforce Customization, Lightning Web Components, and REST Integration. With a strong technical background, I have built and optimized various Salesforce solutions tailored to business needs.
 
-## 🔧 Additional Skills
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?logo=oracle&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-- **Java**: Strong foundation in object-oriented programming and backend development using Java.
-- **Oracle Database**: Knowledgeable in working with Oracle Database, including SQL queries, stored procedures, and database optimization.
-- **HTML/CSS/JavaScript**: Proficient in front-end web development, creating responsive and interactive web pages using HTML, CSS, and JavaScript.
+### Skills
+- **Salesforce Customization**
+- **Lightning Web Components (LWC)**
+- **REST Integration**
+- **Java**
+- **Oracle Database**
+- **HTML, CSS, JavaScript**
 
-## 📂 Projects
+## Projects
 
-Explore some of my key projects in this repository:
+### Salesforce Customization
+- **Project 1**: Implemented complex Salesforce customization to streamline business operations, including workflows, validation rules, and custom objects.
 
-1. **[Project Name](#)**: Brief description of the project and its purpose.
-2. **[Project Name](#)**: Brief description of the project and its purpose.
-3. **[Project Name](#)**: Brief description of the project and its purpose.
+### Lightning Web Components (LWC)
+- **Project 2**: Developed user-friendly Lightning Web Components that significantly enhanced the user experience and interface performance.
 
-## 📫 Get in Touch
+### REST Integration
+- **Project 3**: Integrated third-party services using REST APIs to ensure seamless data flow between Salesforce and external platforms.
 
-Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
+## Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email Address](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-profile)
 
-Thank you for visiting my repository!
+## Get in Touch
+
+If you have any questions or want to collaborate on Salesforce projects, feel free to reach out!
+
+---
+
+### Notes:
+- Replace `"your-profile"` in the social media links with your actual profile URLs.
+- Customize the project descriptions with specific details about your work.
